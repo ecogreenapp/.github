@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# EcoGreen: Inspiring Green Actions, Leading Change !!!
+# EcoGreen: Economic Empowerment through Green Innovation !!!
 
 This app was developed by Epoch Team Politeknik Harapan Bersama Capstone Project
 
