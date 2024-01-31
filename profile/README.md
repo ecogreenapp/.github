@@ -1,4 +1,4 @@
-## Hola Eco-Friends 🌱💚
+## Hola Greenies 🌱💚
 
 # EcoGreen: Economic Empowerment through Green Innovation !!!
 
