@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-# EcoGreen: !!!
+# EcoGreen: Inspiring Green Actions, Leading Change !!!
 
-This app was developed by Team Epoch Politeknik Harapan Bersama Capstone Project
+This app was developed by Epoch Team Politeknik Harapan Bersama Capstone Project
 
 ## Description
 
-This spice detection app provides complete information about various types of spices in Indonesia. Using precision calculations based on spice image datasets, the app not only helps Generation Z accurately recognize spices, but also provides detailed information such as names, photos, and properties of spices. In addition, the app educates about the health benefits of spices and how to use them in healthy cooking. Through integration with online platforms, users can not only identify, but also buy or sell spices according to their needs, efficiently supporting the spice market ecosystem.
+Welcome to Ecogreen, your all-in-one solution for a greener and more sustainable lifestyle. Discover a world of environmental consciousness and economic opportunities right at your fingertips. Ecogreen empowers users with features like smart waste detection, real-time information on local waste banks, a friendly chatbot for assistance, and educational resources on economic prospects for homemakers. Join our community, where we believe in turning waste into opportunities and making a positive impact on the environment. Ecogreen: Smart Choices for a Greener Tomorrow.
 
 ## Our Team
 
@@ -17,6 +17,5 @@ This spice detection app provides complete information about various types of sp
 
 ## Repository
 
-1. [Machine Learning](https://github.com/spicefyapp/machine-learning)
-2. [Mobile Development](https://github.com/spicefyapp/android_application)
-3. [Cloud Computing](https://github.com/spicefyapp/cloud-computing)
+1. [Web Development](https://github.com/ecogreenapp/ecogreenweb)
+2. [Mobile Development](https://github.com/ecogreenapp/ecogreenmobile)
