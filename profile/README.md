@@ -17,5 +17,5 @@ Welcome to Ecogreen, your all-in-one solution for a greener and more sustainable
 
 ## Repository
 
-1. [Web Development](https://github.com/ecogreenapp/ecogreenweb)
+1. [Web Development](https://github.com/ecogreenapp/Ecogreen_Website)
 2. [Mobile Development](https://github.com/ecogreenapp/ecogreenmobile)
