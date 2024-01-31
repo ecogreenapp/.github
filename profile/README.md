@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Spicefy: spice up your life!
+# Spicefy: spice up your life!!!
 
 This app was developed by Team CH2-PS349 Bangkit Capstone Project
 
