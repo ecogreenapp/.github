@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# Spicefy: spice up your life!!!
+# EcoGreen: !!!
 
-This app was developed by Team CH2-PS349 Bangkit Capstone Project
+This app was developed by Team Epoch Politeknik Harapan Bersama Capstone Project
 
 ## Description
 
@@ -10,13 +10,10 @@ This spice detection app provides complete information about various types of sp
 
 ## Our Team
 
-1. M124BSY1424 – Annur Riyadhus Solikhin – Politeknik Harapan Bersama
-2. M124BSX1754 – Rakhmadhani Nurul Aini – Politeknik Harapan Bersama
-3. M268BSY1922 – Robby Febrian Saputro – Universitas Muhammadiyah Surakarta
-4. C015BSY3206 – Fatrah Ahmad Putra – Universitas Negeri Yogyakarta
-5. C312BSY4359 – Sangaji Suryo Guritno – Universitas Sebelas Maret
-6. A124BSY2879 – Nur Rizqi Maulana – Politeknik Harapan Bersama
-7. A346BSY2626 – Akbar Maulana – Universitas Adhirajasa Reswara Sanjaya
+1. 21090032 - Nurul Febi Anisa - Politeknik Harapan Bersama
+2. 21090037 - Fadila Rizka Nur Aminah - Politeknik Harapan Bersama
+3. 21090092 - Hasnita Rani Kumala - Politeknik Harapan Bersama
+4. 21090097 - Kartika Deviani - Politeknik Harapan Bersama
 
 ## Repository
 
