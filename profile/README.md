@@ -19,3 +19,4 @@ Welcome to Ecogreen, your all-in-one solution for a greener and more sustainable
 
 1. [Web Development](https://github.com/ecogreenapp/Ecogreen_Website)
 2. [Mobile Development](https://github.com/ecogreenapp/ecogreenmobile)
+3. [Machine Learning](https://github.com/ecogreenapp/EcoGreen_MachineLearning)
